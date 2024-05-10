@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 1e9ada27f581c774cbfa60956a377650
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2420163313438226628
+    second: Enemy-Canon Ball-fulll_0
+  - first:
+      213: -915520649713107370
+    second: Enemy-Canon Ball-fulll_1
+  - first:
+      213: 971291742807675842
+    second: Enemy-Canon Ball-fulll_2
+  - first:
+      213: -8218929064810177546
+    second: Enemy-Canon Ball-fulll_3
+  - first:
+      213: -8393671880177417313
+    second: Enemy-Canon Ball-fulll_4
+  - first:
+      213: 6274868374407427430
+    second: Enemy-Canon Ball-fulll_5
+  - first:
+      213: -7066418591124693877
+    second: Enemy-Canon Ball-fulll_6
+  - first:
+      213: 4735354505083107772
+    second: Enemy-Canon Ball-fulll_7
+  - first:
+      213: -873295143646630320
+    second: Enemy-Canon Ball-fulll_8
+  - first:
+      213: -7107769155843838307
+    second: Enemy-Canon Ball-fulll_9
+  - first:
+      213: 8112909487503017455
+    second: Enemy-Canon Ball-fulll_10
+  - first:
+      213: -7855980564929076240
+    second: Enemy-Canon Ball-fulll_11
+  - first:
+      213: -5646851757428669057
+    second: Enemy-Canon Ball-fulll_12
+  - first:
+      213: -8260506735188736130
+    second: Enemy-Canon Ball-fulll_13
+  - first:
+      213: -3239533656551209303
+    second: Enemy-Canon Ball-fulll_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736.6666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e706e1ca6e09e42a115b6489558d3d
+      internalID: 2420163313438226628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 736.6666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c828b9695ab1944a0b2ac0049d3b7c
+      internalID: -915520649713107370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 736.6666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf8e51c443706e4ab9efcc349193038
+      internalID: 971291742807675842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 736.6666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f419557085f1b18499b6c2456078265b
+      internalID: -8218929064810177546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 736.6666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03ec7191badb145ad30ed4f8a6a8e9
+      internalID: -8393671880177417313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368.66666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94361efe6fa39f47a353c72553f389b
+      internalID: 6274868374407427430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 368.66666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1326accf564240a7303e024773baa
+      internalID: -7066418591124693877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 368.66666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dab804599b49f4e93b739760a1a32c
+      internalID: 4735354505083107772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_8
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 368.66666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bffe16207ae554a930b467e716c967
+      internalID: -873295143646630320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 368.66666
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4c4a04232b99438db745158bf9e43
+      internalID: -7107769155843838307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a925815de99cec4091661b6f3bb7d8f
+      internalID: 8112909487503017455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0.6666565
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719d0f12edde514591ec9a24028f267
+      internalID: -7855980564929076240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0.6666565
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221e915c8ad4ed48aa339b393ca8d47
+      internalID: -5646851757428669057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_13
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0.6666565
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e4723b280d9e4c8f2be116723a56d
+      internalID: -8260506735188736130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Canon Ball-fulll_14
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0.6666565
+        width: 366.2
+        height: 368.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe15a925e879e41b0d0d318e66e228
+      internalID: -3239533656551209303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy-Canon Ball-fulll_8: -873295143646630320
+      Enemy-Canon Ball-fulll_3: -8218929064810177546
+      Enemy-Canon Ball-fulll_2: 971291742807675842
+      Enemy-Canon Ball-fulll_6: -7066418591124693877
+      Enemy-Canon Ball-fulll_10: 8112909487503017455
+      Enemy-Canon Ball-fulll_11: -7855980564929076240
+      Enemy-Canon Ball-fulll_9: -7107769155843838307
+      Enemy-Canon Ball-fulll_1: -915520649713107370
+      Enemy-Canon Ball-fulll_7: 4735354505083107772
+      Enemy-Canon Ball-fulll_0: 2420163313438226628
+      Enemy-Canon Ball-fulll_4: -8393671880177417313
+      Enemy-Canon Ball-fulll_14: -3239533656551209303
+      Enemy-Canon Ball-fulll_12: -5646851757428669057
+      Enemy-Canon Ball-fulll_5: 6274868374407427430
+      Enemy-Canon Ball-fulll_13: -8260506735188736130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

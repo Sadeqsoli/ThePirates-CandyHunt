@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 7e56ab39c2be907458b8bc17374f4475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1059351665859480242
+    second: Canon Ball-fulll_0
+  - first:
+      213: -2740887116389200367
+    second: Canon Ball-fulll_1
+  - first:
+      213: -5874541569240949562
+    second: Canon Ball-fulll_2
+  - first:
+      213: 2004928029813033412
+    second: Canon Ball-fulll_3
+  - first:
+      213: -7796772740591308721
+    second: Canon Ball-fulll_4
+  - first:
+      213: -634184280874701797
+    second: Canon Ball-fulll_5
+  - first:
+      213: -4626097999324457328
+    second: Canon Ball-fulll_6
+  - first:
+      213: 2493832662491488230
+    second: Canon Ball-fulll_7
+  - first:
+      213: 8157723789718549371
+    second: Canon Ball-fulll_8
+  - first:
+      213: 4011457353473375954
+    second: Canon Ball-fulll_9
+  - first:
+      213: -5912561109404073449
+    second: Canon Ball-fulll_10
+  - first:
+      213: -7232564664002455474
+    second: Canon Ball-fulll_11
+  - first:
+      213: 8468735604590491830
+    second: Canon Ball-fulll_12
+  - first:
+      213: 7152353417776096269
+    second: Canon Ball-fulll_13
+  - first:
+      213: -2434808534183864116
+    second: Canon Ball-fulll_14
+  - first:
+      213: -7270764420195220336
+    second: Canon Ball-fulll_15
+  - first:
+      213: -3801179674738009266
+    second: Canon Ball-fulll_16
+  - first:
+      213: -1549432049381695948
+    second: Canon Ball-fulll_17
+  - first:
+      213: -8407769095399181916
+    second: Canon Ball-fulll_18
+  - first:
+      213: 6859921599819895194
+    second: Canon Ball-fulll_19
+  - first:
+      213: -30488826680003286
+    second: Canon Ball-fulll_20
+  - first:
+      213: 5383495504413359431
+    second: Canon Ball-fulll_21
+  - first:
+      213: -7755098150373928129
+    second: Canon Ball-fulll_22
+  - first:
+      213: 826539718468937858
+    second: Canon Ball-fulll_23
+  - first:
+      213: -8233071945397146155
+    second: Canon Ball-fulll_24
+  - first:
+      213: -8831885633923109145
+    second: Canon Ball-fulll_25
+  - first:
+      213: 1763107948921286408
+    second: Canon Ball-fulll_26
+  - first:
+      213: 1053032929940046447
+    second: Canon Ball-fulll_27
+  - first:
+      213: 5690614484377846553
+    second: Canon Ball-fulll_28
+  - first:
+      213: -8954958591953648165
+    second: Canon Ball-fulll_29
+  - first:
+      213: -7649258135468433107
+    second: Canon Ball-fulll_30
+  - first:
+      213: 759020235641076018
+    second: Canon Ball-fulll_31
+  - first:
+      213: -4249911671426920148
+    second: Canon Ball-fulll_32
+  - first:
+      213: 5669041593878734318
+    second: Canon Ball-fulll_33
+  - first:
+      213: 6266361102405776398
+    second: Canon Ball-fulll_34
+  - first:
+      213: -2464360054378443507
+    second: Canon Ball-fulll_35
+  - first:
+      213: -7134909210749122060
+    second: Canon Ball-fulll_36
+  - first:
+      213: 7262885024795099239
+    second: Canon Ball-fulll_37
+  - first:
+      213: -1577803594268215
+    second: Canon Ball-fulll_38
+  - first:
+      213: -1507310839410237659
+    second: Canon Ball-fulll_39
+  - first:
+      213: -754610601319289520
+    second: Canon Ball-fulll_40
+  - first:
+      213: -568883205364563855
+    second: Canon Ball-fulll_41
+  - first:
+      213: 5721511650847082089
+    second: Canon Ball-fulll_42
+  - first:
+      213: -7306413404260182024
+    second: Canon Ball-fulll_43
+  - first:
+      213: 4460230487385525145
+    second: Canon Ball-fulll_44
+  - first:
+      213: -7337541402502978350
+    second: Canon Ball-fulll_45
+  - first:
+      213: -4939971695156696624
+    second: Canon Ball-fulll_46
+  - first:
+      213: -8585775113142631183
+    second: Canon Ball-fulll_47
+  - first:
+      213: 5791133358787818688
+    second: Canon Ball-fulll_48
+  - first:
+      213: 1660035151486097601
+    second: Canon Ball-fulll_49
+  - first:
+      213: 6807733537975617269
+    second: Canon Ball-fulll_50
+  - first:
+      213: -3409031493553384066
+    second: Canon Ball-fulll_51
+  - first:
+      213: 6828489257146653767
+    second: Canon Ball-fulll_52
+  - first:
+      213: 3356075505581635881
+    second: Canon Ball-fulll_53
+  - first:
+      213: 7901030910391290566
+    second: Canon Ball-fulll_54
+  - first:
+      213: -7854824665849573890
+    second: Canon Ball-fulll_55
+  - first:
+      213: 1105532268344872341
+    second: Canon Ball-fulll_56
+  - first:
+      213: 2885518827141975726
+    second: Canon Ball-fulll_57
+  - first:
+      213: -8106321715823625235
+    second: Canon Ball-fulll_58
+  - first:
+      213: -3499031834321131712
+    second: Canon Ball-fulll_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Canon Ball-fulll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b34abde2fa644c87f1d9cf0fced05
+      internalID: 1059351665859480242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3726fa3d54813d41a34dcc309f5521b
+      internalID: -2740887116389200367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd512c47ca4444ebccdee1386443e1
+      internalID: -5874541569240949562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f462cade59bc24b89e8805d4d4f749
+      internalID: 2004928029813033412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_4
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2752e61d8cdd94197ef33d6f31a2c8
+      internalID: -7796772740591308721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_5
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae6c3eea09bb54f8f61dbdd9073ad4
+      internalID: -634184280874701797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_6
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1e13671e55b94a9983dc4d13a4fae
+      internalID: -4626097999324457328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_7
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1cecd22bce2a43b20a33bc7f19312
+      internalID: 2493832662491488230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_8
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba39e7c6154af67448c7302bb69a1b47
+      internalID: 8157723789718549371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_9
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1850.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2828d901374e409c04a4c0193dda5
+      internalID: 4011457353473375954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0815a7023a994b85af1f202fe988d
+      internalID: -5912561109404073449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d4153d46206aa42a19a45f483141f8
+      internalID: -7232564664002455474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac029164e8d744ab549b3b5ef2c553
+      internalID: 8468735604590491830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_13
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdf143e2a9d4649b21defaadfb018c
+      internalID: 7152353417776096269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_14
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7ef6c8c366b9449b9569b2ca2e93d2
+      internalID: -2434808534183864116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_15
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c164074b170c479a254730e1f2a8f
+      internalID: -7270764420195220336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_16
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5d09f16301094592b583afec4ef12
+      internalID: -3801179674738009266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_17
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40362fa10b8a894e86f5211f3c23329
+      internalID: -1549432049381695948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_18
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f69449a96c05548ab1d37529d4d3a6
+      internalID: -8407769095399181916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_19
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1480.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5108051a86b4854aa96aa9ddc10490f
+      internalID: 6859921599819895194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58621dca79443974282317bfd1229181
+      internalID: -30488826680003286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde044f9b9431d4c8bfa37848ec3625
+      internalID: 5383495504413359431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc5dda0409e6f4581c1a2207507184
+      internalID: -7755098150373928129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_23
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591818e9efaf2a45b0a897196c7fa2f
+      internalID: 826539718468937858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_24
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd5a9bd84fed35458d9b380bcba2896
+      internalID: -8233071945397146155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_25
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14896a311c64b5042b84c0a6d1b70cd0
+      internalID: -8831885633923109145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_26
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8046a66655f1a649b42c7b5d975a371
+      internalID: 1763107948921286408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_27
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e5a651edb67f438e228af73d7ec12
+      internalID: 1053032929940046447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_28
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f5cfd6d521a6459a63f1d21e9f617
+      internalID: 5690614484377846553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_29
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1110.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab7201b8cf8da47bfdbd0a8ced5d1d
+      internalID: -8954958591953648165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded1e47495b03349b5568922d18d0a1
+      internalID: -7649258135468433107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_31
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e642554aebbb6e4bbdcb3fc7d7b7de6
+      internalID: 759020235641076018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_32
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc21cf8c6075ab4981bfc588e448079
+      internalID: -4249911671426920148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_33
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd6ee606885b84ea24b2793108f7ae
+      internalID: 5669041593878734318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_34
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41eaf2ce9f109449614af8e05bb833
+      internalID: 6266361102405776398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_35
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867e187b177e054181bf33a44255e46
+      internalID: -2464360054378443507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_36
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf329205298c2c8499c14e06c539eb31
+      internalID: -7134909210749122060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_37
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac467491eaba484e81fcfb938ad964b
+      internalID: 7262885024795099239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_38
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc62564ec131f4fa12f2976604a846
+      internalID: -1577803594268215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_39
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 740.8334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38c8dcc7bf6884b9a296a4703ab9df
+      internalID: -1507310839410237659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ac616f4cb08b4999c7f008645e5a4
+      internalID: -754610601319289520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f002838db773e409b1b880b2fad568
+      internalID: -568883205364563855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_42
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc028894b3beb4baf548743df95755
+      internalID: 5721511650847082089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_43
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c64dd3aa89c1848bddb1eaabb3d317
+      internalID: -7306413404260182024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_44
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33feca09f675e499980755eed35a80
+      internalID: 4460230487385525145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_45
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2786b666906054c875e520e098d63c
+      internalID: -7337541402502978350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_46
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc10ac723710e04aaf1babec35454d7
+      internalID: -4939971695156696624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_47
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 371
+        width: 368
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146b5950ae83fb4d926b807345fed59
+      internalID: -8585775113142631183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_48
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9f0bf454e5de439c16d3989c3cb57
+      internalID: 5791133358787818688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_49
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 370.83334
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e9606b520a6e448753379ffb4e51e
+      internalID: 1660035151486097601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafbdf4fb6be31a479df80f60ce0eb21
+      internalID: 6807733537975617269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47bd4df6991036469a33b490ad17c8b
+      internalID: -3409031493553384066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_52
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05482da670c00f148b8ebc180e4ac1b5
+      internalID: 6828489257146653767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_53
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3133120f299ebe479b666119dfdf416
+      internalID: 3356075505581635881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_54
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee223840bfe044d82fa770f0668d0f
+      internalID: 7901030910391290566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_55
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74937835d530e234da3fe831963b2a83
+      internalID: -7854824665849573890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_56
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c1f9d3b3dacc841816ee1f85e2394f
+      internalID: 1105532268344872341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_57
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71810b4463d6b5a4d9ad6d0b45ea5746
+      internalID: 2885518827141975726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_58
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34608c00b6ac7a439fa81648d7c45d4
+      internalID: -8106321715823625235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canon Ball-fulll_59
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 0.8333435
+        width: 367.5
+        height: 370.16666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44902088def7a3d458062633e1dc458f
+      internalID: -3499031834321131712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Canon Ball-fulll_20: -30488826680003286
+      Canon Ball-fulll_38: -1577803594268215
+      Canon Ball-fulll_45: -7337541402502978350
+      Canon Ball-fulll_24: -8233071945397146155
+      Canon Ball-fulll_4: -7796772740591308721
+      Canon Ball-fulll_47: -8585775113142631183
+      Canon Ball-fulll_2: -5874541569240949562
+      Canon Ball-fulll_7: 2493832662491488230
+      Canon Ball-fulll_48: 5791133358787818688
+      Canon Ball-fulll_9: 4011457353473375954
+      Canon Ball-fulll_10: -5912561109404073449
+      Canon Ball-fulll_52: 6828489257146653767
+      Canon Ball-fulll_12: 8468735604590491830
+      Canon Ball-fulll_11: -7232564664002455474
+      Canon Ball-fulll_16: -3801179674738009266
+      Canon Ball-fulll_43: -7306413404260182024
+      Canon Ball-fulll_34: 6266361102405776398
+      Canon Ball-fulll_59: -3499031834321131712
+      Canon Ball-fulll_26: 1763107948921286408
+      Canon Ball-fulll_6: -4626097999324457328
+      Canon Ball-fulll_49: 1660035151486097601
+      Canon Ball-fulll_1: -2740887116389200367
+      Canon Ball-fulll_25: -8831885633923109145
+      Canon Ball-fulll_29: -8954958591953648165
+      Canon Ball-fulll_33: 5669041593878734318
+      Canon Ball-fulll_50: 6807733537975617269
+      Canon Ball-fulll_0: 1059351665859480242
+      Canon Ball-fulll_31: 759020235641076018
+      Canon Ball-fulll_22: -7755098150373928129
+      Canon Ball-fulll_37: 7262885024795099239
+      Canon Ball-fulll_17: -1549432049381695948
+      Canon Ball-fulll_40: -754610601319289520
+      Canon Ball-fulll_55: -7854824665849573890
+      Canon Ball-fulll_58: -8106321715823625235
+      Canon Ball-fulll_53: 3356075505581635881
+      Canon Ball-fulll_39: -1507310839410237659
+      Canon Ball-fulll_30: -7649258135468433107
+      Canon Ball-fulll_18: -8407769095399181916
+      Canon Ball-fulll_21: 5383495504413359431
+      Canon Ball-fulll_54: 7901030910391290566
+      Canon Ball-fulll_46: -4939971695156696624
+      Canon Ball-fulll_41: -568883205364563855
+      Canon Ball-fulll_32: -4249911671426920148
+      Canon Ball-fulll_23: 826539718468937858
+      Canon Ball-fulll_14: -2434808534183864116
+      Canon Ball-fulll_13: 7152353417776096269
+      Canon Ball-fulll_28: 5690614484377846553
+      Canon Ball-fulll_5: -634184280874701797
+      Canon Ball-fulll_8: 8157723789718549371
+      Canon Ball-fulll_19: 6859921599819895194
+      Canon Ball-fulll_44: 4460230487385525145
+      Canon Ball-fulll_35: -2464360054378443507
+      Canon Ball-fulll_51: -3409031493553384066
+      Canon Ball-fulll_27: 1053032929940046447
+      Canon Ball-fulll_36: -7134909210749122060
+      Canon Ball-fulll_15: -7270764420195220336
+      Canon Ball-fulll_57: 2885518827141975726
+      Canon Ball-fulll_56: 1105532268344872341
+      Canon Ball-fulll_42: 5721511650847082089
+      Canon Ball-fulll_3: 2004928029813033412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

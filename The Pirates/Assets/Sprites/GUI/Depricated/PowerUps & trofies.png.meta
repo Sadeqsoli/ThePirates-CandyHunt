@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: e59ad25029e0a9a47958c48c7a83b075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3371643605140142403
+    second: PowerUps & trofies_0
+  - first:
+      213: -8980022728813466626
+    second: PowerUps & trofies_1
+  - first:
+      213: 2861372574044990743
+    second: PowerUps & trofies_2
+  - first:
+      213: -7105964936619494723
+    second: PowerUps & trofies_3
+  - first:
+      213: -1487169460574974623
+    second: PowerUps & trofies_4
+  - first:
+      213: 6589660219797801011
+    second: PowerUps & trofies_5
+  - first:
+      213: 3191495507952425136
+    second: PowerUps & trofies_6
+  - first:
+      213: -8868068683658850130
+    second: PowerUps & trofies_7
+  - first:
+      213: 6415837308808092335
+    second: PowerUps & trofies_8
+  - first:
+      213: -2579145774241388171
+    second: PowerUps & trofies_9
+  - first:
+      213: -4213254008173718279
+    second: PowerUps & trofies_10
+  - first:
+      213: 5407664510168645795
+    second: PowerUps & trofies_11
+  - first:
+      213: 5531117788320553769
+    second: PowerUps & trofies_12
+  - first:
+      213: -7962210014524167850
+    second: PowerUps & trofies_13
+  - first:
+      213: -5991273421193998750
+    second: PowerUps & trofies_14
+  - first:
+      213: -2812644081319694925
+    second: PowerUps & trofies_15
+  - first:
+      213: 4649529600594237280
+    second: PowerUps & trofies_16
+  - first:
+      213: -1592930463603801023
+    second: PowerUps & trofies_17
+  - first:
+      213: -3248267877469186753
+    second: PowerUps & trofies_18
+  - first:
+      213: -2304106601099132747
+    second: PowerUps & trofies_19
+  - first:
+      213: -8836132279596795178
+    second: PowerUps & trofies_20
+  - first:
+      213: -1238033584820237972
+    second: PowerUps & trofies_21
+  - first:
+      213: -4317826646777956576
+    second: PowerUps & trofies_22
+  - first:
+      213: -4681070280086440576
+    second: PowerUps & trofies_23
+  - first:
+      213: -7470735879429162834
+    second: PowerUps & trofies_24
+  - first:
+      213: 8414684928940987476
+    second: PowerUps & trofies_25
+  - first:
+      213: 527048622523648257
+    second: PowerUps & trofies_26
+  - first:
+      213: 6430912756196852189
+    second: PowerUps & trofies_27
+  - first:
+      213: -6641691798631772834
+    second: PowerUps & trofies_28
+  - first:
+      213: 5928887501486663940
+    second: PowerUps & trofies_29
+  - first:
+      213: -4767132859958056048
+    second: PowerUps & trofies_30
+  - first:
+      213: 5207300513908403863
+    second: PowerUps & trofies_31
+  - first:
+      213: 460233107480144856
+    second: PowerUps & trofies_32
+  - first:
+      213: -6611969644098117456
+    second: PowerUps & trofies_33
+  - first:
+      213: 3620460534815065951
+    second: PowerUps & trofies_34
+  - first:
+      213: 1181502362426775672
+    second: PowerUps & trofies_38
+  - first:
+      213: -4639590681532723137
+    second: PowerUps & trofies_39
+  - first:
+      213: -7729610379304545835
+    second: PowerUps & trofies_40
+  - first:
+      213: 8662234170136725923
+    second: PowerUps & trofies_42
+  - first:
+      213: -3120155653207628647
+    second: PowerUps & trofies_43
+  - first:
+      213: 4234655237652137857
+    second: PowerUps & trofies_44
+  - first:
+      213: 2226945308945777132
+    second: PowerUps & trofies_45
+  - first:
+      213: -8752021100877882690
+    second: PowerUps & trofies_47
+  - first:
+      213: 323135793511461854
+    second: PowerUps & trofies_48
+  - first:
+      213: 5838023332866057835
+    second: PowerUps & trofies_50
+  - first:
+      213: -2253738904227993194
+    second: PowerUps & trofies_51
+  - first:
+      213: 3747620774188805056
+    second: PowerUps & trofies_53
+  - first:
+      213: -7789205795944622771
+    second: PowerUps & trofies_55
+  - first:
+      213: -49566422205373759
+    second: PowerUps & trofies_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerUps & trofies_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2065
+        width: 274
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99d6f13791fdc41975c343b1b7ecb4
+      internalID: -8980022728813466626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2065
+        width: 329
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313aa9621d49614aa309c2ca2b54597
+      internalID: 2861372574044990743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_4
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2069
+        width: 298
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d94c22c71a644aa6eaf5d70682507
+      internalID: -1487169460574974623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_5
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2061
+        width: 274
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5e29d24d43d842adb9fdf9b8112e2
+      internalID: 6589660219797801011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_7
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 2065
+        width: 274
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f47559849356c49a748d7e2765815c
+      internalID: -8868068683658850130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_8
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2079
+        width: 307
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895c43a9ce809f48ba2fe7bd7128cb5
+      internalID: 6415837308808092335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_9
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2060
+        width: 240
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175baddc07eecd42ad3e28275a2a2e2
+      internalID: -2579145774241388171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1590
+        width: 315
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe288cb9dab5fa4c8e0b28d5fd6c7bf
+      internalID: -7962210014524167850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1572
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02791760a84c2043b061e0d0f446c12
+      internalID: -5991273421193998750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1568
+        width: 267
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dedbb476deed94887e60755d6863ca
+      internalID: -2812644081319694925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_16
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1570
+        width: 282
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7486e503537249a1a76230e1c11e7
+      internalID: 4649529600594237280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_17
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1570
+        width: 242
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb4bb6f3097dc40bd5e258c01d1009
+      internalID: -1592930463603801023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_19
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 1599
+        width: 335
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1a4c75de255d4bad20ee467ff3d73
+      internalID: -2304106601099132747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_20
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1570
+        width: 256
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5da5565f98b741805a2b5f279617a
+      internalID: -8836132279596795178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1094
+        width: 269
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ee6c195a167b4381e4eaef9ce3c93
+      internalID: -4317826646777956576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1078
+        width: 240
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b94072fe0246a4e9e7f51bd15e89eb
+      internalID: -7470735879429162834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_25
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1101
+        width: 299
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa1f251a1a9a440993cf0b88e6bf4d
+      internalID: 8414684928940987476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_27
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1075
+        width: 295
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20312430cb3eb604d8b4de28979acc49
+      internalID: 6430912756196852189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_29
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1080
+        width: 323
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d9032d3605aa45a9ff70b4873bc29
+      internalID: 5928887501486663940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_32
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1085
+        width: 298
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0574e9f8c7fc44a94cf6586fa120a
+      internalID: 460233107480144856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_33
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 1085
+        width: 299
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023698f4fb78d64fb2738f7ee6fd7ae
+      internalID: -6611969644098117456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 612
+        width: 296
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c5c8d020896c43b60f483fbd696d5
+      internalID: 1181502362426775672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_39
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 590
+        width: 312
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411081cb88f0b248ac8c6a1d77948b3
+      internalID: -4639590681532723137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_40
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 594
+        width: 269
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c91d0364e2cfdb4d9e536ef333c4672
+      internalID: -7729610379304545835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 594
+        width: 276
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3494f5a725adb24dad8a12906f8e07a
+      internalID: 8662234170136725923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_43
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 606
+        width: 273
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e4fb624ea1574c9b6c67e39edb080
+      internalID: -3120155653207628647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_44
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 595
+        width: 274
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bdb854f241e274daba12c9e2ad41c1
+      internalID: 4234655237652137857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_45
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 607
+        width: 311
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cca2f263e301f419f8901d3f8582b7
+      internalID: 2226945308945777132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 295
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0bca959deb8a744a88275a4aa283b7
+      internalID: -8752021100877882690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_48
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 109
+        width: 305
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d608ded5f9044d98871a6596caa46
+      internalID: 323135793511461854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_50
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 112
+        width: 248
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f53b8fa0671e54c9a44dd396dd0a63
+      internalID: 5838023332866057835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_51
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 99
+        width: 274
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32171bb1e2ff84d9ea9f25c29b0371
+      internalID: -2253738904227993194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_53
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 126
+        width: 293
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f5e839af9b9a468413868dbe33de7
+      internalID: 3747620774188805056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_55
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 104
+        width: 299
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6620d2f00b515a4f98a8d5c26628e0e
+      internalID: -7789205795944622771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUps & trofies_57
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 78
+        width: 296
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc4105ffe80b04abdb6e9a900d6a45
+      internalID: -49566422205373759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PowerUps & trofies_40: -7729610379304545835
+      PowerUps & trofies_27: 6430912756196852189
+      PowerUps & trofies_9: -2579145774241388171
+      PowerUps & trofies_25: 8414684928940987476
+      PowerUps & trofies_15: -2812644081319694925
+      PowerUps & trofies_4: -1487169460574974623
+      PowerUps & trofies_24: -7470735879429162834
+      PowerUps & trofies_44: 4234655237652137857
+      PowerUps & trofies_45: 2226945308945777132
+      PowerUps & trofies_16: 4649529600594237280
+      PowerUps & trofies_51: -2253738904227993194
+      PowerUps & trofies_20: -8836132279596795178
+      PowerUps & trofies_48: 323135793511461854
+      PowerUps & trofies_14: -5991273421193998750
+      PowerUps & trofies_2: 2861372574044990743
+      PowerUps & trofies_8: 6415837308808092335
+      PowerUps & trofies_13: -7962210014524167850
+      PowerUps & trofies_1: -8980022728813466626
+      PowerUps & trofies_33: -6611969644098117456
+      PowerUps & trofies_17: -1592930463603801023
+      PowerUps & trofies_22: -4317826646777956576
+      PowerUps & trofies_7: -8868068683658850130
+      PowerUps & trofies_38: 1181502362426775672
+      PowerUps & trofies_53: 3747620774188805056
+      PowerUps & trofies_29: 5928887501486663940
+      PowerUps & trofies_47: -8752021100877882690
+      PowerUps & trofies_32: 460233107480144856
+      PowerUps & trofies_43: -3120155653207628647
+      PowerUps & trofies_42: 8662234170136725923
+      PowerUps & trofies_50: 5838023332866057835
+      PowerUps & trofies_39: -4639590681532723137
+      PowerUps & trofies_5: 6589660219797801011
+      PowerUps & trofies_19: -2304106601099132747
+      PowerUps & trofies_55: -7789205795944622771
+      PowerUps & trofies_57: -49566422205373759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

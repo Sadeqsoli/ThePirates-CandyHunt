@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: daf16c8704d1b8845a35f84e6e54fd35
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jessen
+  fontNames:
+  - Jessen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aace3e82a88eca044920b0dc896168c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

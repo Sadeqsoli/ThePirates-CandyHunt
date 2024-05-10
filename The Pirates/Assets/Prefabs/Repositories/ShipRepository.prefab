@@ -1,0 +1,1041 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8752739458821875472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8752739458821875473}
+  - component: {fileID: 8752739458821875474}
+  m_Layer: 0
+  m_Name: ShipRepository
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8752739458821875473
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8752739458821875472}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8752739458821875474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8752739458821875472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19994aaa0c6b13d4f8bc5cd879c2df67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveData: {fileID: 4443625727351748498, guid: 5b3a5b905c30ede46838824cd917c8b6,
+    type: 3}
+  ships:
+  - key: 0
+    Ship: {fileID: 1371371298721499186, guid: 07b6f01543f1b8e40aa345b93b51267c, type: 3}
+    speed: 5
+    health: 100
+    guns: 3
+    bulletPower: 2
+    fireRate: 0.7
+    model: SeaDragon-100
+    bulletType: 0
+    price: 0
+    isLocked: 0
+    sprite: {fileID: 5123718946882425476, guid: c802f77bcb6b4114b9671f25153a0cad,
+      type: 3}
+    sprite1: {fileID: 2116067619258498850, guid: 431b35c63e2ca7c4e8066e4a49977753,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 65654b459efb9b3429751f508cd1443f, type: 3}
+  - key: 1
+    Ship: {fileID: 8165178845760734044, guid: 29998487d3ae6d4499ad3ccf5a0faaa9, type: 3}
+    speed: 5
+    health: 110
+    guns: 1
+    bulletPower: 4
+    fireRate: 0.7
+    model: SeaDragon-200
+    bulletType: 0
+    price: 100
+    isLocked: 1
+    sprite: {fileID: 6880966605942517205, guid: c802f77bcb6b4114b9671f25153a0cad,
+      type: 3}
+    sprite1: {fileID: 5552725403200837879, guid: 431b35c63e2ca7c4e8066e4a49977753,
+      type: 3}
+    canonBall: {fileID: 4737588524143321128, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 2
+    Ship: {fileID: 4038498387985298291, guid: fff29bdc34a47ad4a9f2201dfb056086, type: 3}
+    speed: 5
+    health: 120
+    guns: 2
+    bulletPower: 6
+    fireRate: 0.7
+    model: SeaDragon-300
+    bulletType: 0
+    price: 300
+    isLocked: 1
+    sprite: {fileID: -8553340000835731202, guid: c802f77bcb6b4114b9671f25153a0cad,
+      type: 3}
+    sprite1: {fileID: -1031644802139108743, guid: 431b35c63e2ca7c4e8066e4a49977753,
+      type: 3}
+    canonBall: {fileID: -6749670139308641082, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 3
+    Ship: {fileID: 4038978633352781733, guid: 595d09532659290458da8c8c4c00c9ec, type: 3}
+    speed: 5
+    health: 130
+    guns: 3
+    bulletPower: 7
+    fireRate: 0.7
+    model: SeaDragon-400
+    bulletType: 0
+    price: 500
+    isLocked: 1
+    sprite: {fileID: 6335350610489684565, guid: c802f77bcb6b4114b9671f25153a0cad,
+      type: 3}
+    sprite1: {fileID: -2640966297327233953, guid: 431b35c63e2ca7c4e8066e4a49977753,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 65654b459efb9b3429751f508cd1443f, type: 3}
+  - key: 4
+    Ship: {fileID: 8174830294515923860, guid: 14626165012bad749b59bc620ababb8e, type: 3}
+    speed: 5
+    health: 140
+    guns: 4
+    bulletPower: 8
+    fireRate: 0.7
+    model: SeaDragon-500
+    bulletType: 0
+    price: 1000
+    isLocked: 1
+    sprite: {fileID: 7487904733871381225, guid: c802f77bcb6b4114b9671f25153a0cad,
+      type: 3}
+    sprite1: {fileID: 6186397636804698936, guid: 431b35c63e2ca7c4e8066e4a49977753,
+      type: 3}
+    canonBall: {fileID: 4182686032802922276, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 5
+    Ship: {fileID: 8240521710021458979, guid: 0f7fddc9d671568498052b3a501dfc14, type: 3}
+    speed: 6
+    health: 150
+    guns: 1
+    bulletPower: 10
+    fireRate: 0.65
+    model: TruthSwords-111
+    bulletType: 0
+    price: 1500
+    isLocked: 1
+    sprite: {fileID: -5377093954090149749, guid: 66173ba1a1760544e84da1a513d4d8c1,
+      type: 3}
+    sprite1: {fileID: -6019808945683201626, guid: 47103324c841b1e4aae6dfd1314fbaae,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 65654b459efb9b3429751f508cd1443f, type: 3}
+  - key: 6
+    Ship: {fileID: 1308088311618084620, guid: bfcf99825fc053e429577717e4e78246, type: 3}
+    speed: 6
+    health: 160
+    guns: 2
+    bulletPower: 10
+    fireRate: 0.65
+    model: TruthSwords-222
+    bulletType: 0
+    price: 1700
+    isLocked: 1
+    sprite: {fileID: -3823735399712718059, guid: 66173ba1a1760544e84da1a513d4d8c1,
+      type: 3}
+    sprite1: {fileID: -601904679749462136, guid: 47103324c841b1e4aae6dfd1314fbaae,
+      type: 3}
+    canonBall: {fileID: 4737588524143321128, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 7
+    Ship: {fileID: 4789288723875589862, guid: e78468fe7a065424b808083013e0bd33, type: 3}
+    speed: 6
+    health: 170
+    guns: 3
+    bulletPower: 10
+    fireRate: 0.65
+    model: TruthSwords-333
+    bulletType: 0
+    price: 2000
+    isLocked: 1
+    sprite: {fileID: 4193276754818423252, guid: 66173ba1a1760544e84da1a513d4d8c1,
+      type: 3}
+    sprite1: {fileID: 8329228724669293609, guid: 47103324c841b1e4aae6dfd1314fbaae,
+      type: 3}
+    canonBall: {fileID: -6749670139308641082, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 8
+    Ship: {fileID: 3516328186589920576, guid: 5275b2ec2183ff34280d9676fc77cedd, type: 3}
+    speed: 6
+    health: 180
+    guns: 4
+    bulletPower: 10
+    fireRate: 0.65
+    model: TruthSwords-444
+    bulletType: 0
+    price: 2500
+    isLocked: 1
+    sprite: {fileID: -7610540672941544714, guid: 66173ba1a1760544e84da1a513d4d8c1,
+      type: 3}
+    sprite1: {fileID: 8952637499417547847, guid: 47103324c841b1e4aae6dfd1314fbaae,
+      type: 3}
+    canonBall: {fileID: 4182686032802922276, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 9
+    Ship: {fileID: 8904777191703838982, guid: 03c14cc8b20e7a3478963f29f6719a6d, type: 3}
+    speed: 6
+    health: 190
+    guns: 5
+    bulletPower: 10
+    fireRate: 0.65
+    model: TruthSwords-555
+    bulletType: 0
+    price: 3000
+    isLocked: 1
+    sprite: {fileID: 3131236643455039054, guid: 66173ba1a1760544e84da1a513d4d8c1,
+      type: 3}
+    sprite1: {fileID: -5967910836653416526, guid: 47103324c841b1e4aae6dfd1314fbaae,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 65654b459efb9b3429751f508cd1443f, type: 3}
+  - key: 10
+    Ship: {fileID: 2802504247133063454, guid: f9358b53413444349b76c05e987a4c1c, type: 3}
+    speed: 7
+    health: 200
+    guns: 2
+    bulletPower: 13
+    fireRate: 0.65
+    model: Queen-101
+    bulletType: 0
+    price: 3500
+    isLocked: 1
+    sprite: {fileID: 946282559098481007, guid: 7f367ea9f9a0b244bbd05ddc7b855503, type: 3}
+    sprite1: {fileID: 7967426667572847763, guid: 8fc3ae53e30535646a1dc2461b33be97,
+      type: 3}
+    canonBall: {fileID: -6749670139308641082, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 11
+    Ship: {fileID: 4120549741732294295, guid: 2de821a5fce1c494f8964d144b106b93, type: 3}
+    speed: 7
+    health: 210
+    guns: 3
+    bulletPower: 13
+    fireRate: 0.65
+    model: Queen-202
+    bulletType: 0
+    price: 3800
+    isLocked: 1
+    sprite: {fileID: -5718739682164698893, guid: 7f367ea9f9a0b244bbd05ddc7b855503,
+      type: 3}
+    sprite1: {fileID: -5843175821323077925, guid: 8fc3ae53e30535646a1dc2461b33be97,
+      type: 3}
+    canonBall: {fileID: 4737588524143321128, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 12
+    Ship: {fileID: 255649158127500726, guid: d284b32d837cea3498e58c4111933998, type: 3}
+    speed: 7
+    health: 220
+    guns: 4
+    bulletPower: 13
+    fireRate: 0.65
+    model: Queen-303
+    bulletType: 0
+    price: 4500
+    isLocked: 1
+    sprite: {fileID: -6277497018739157785, guid: 7f367ea9f9a0b244bbd05ddc7b855503,
+      type: 3}
+    sprite1: {fileID: -8755970481151012608, guid: 8fc3ae53e30535646a1dc2461b33be97,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 65654b459efb9b3429751f508cd1443f, type: 3}
+  - key: 13
+    Ship: {fileID: 4628520697496772418, guid: e3e2efded472cbf4bbd8f8d85c12ced7, type: 3}
+    speed: 7
+    health: 230
+    guns: 5
+    bulletPower: 13
+    fireRate: 0.65
+    model: Queen-404
+    bulletType: 0
+    price: 5000
+    isLocked: 1
+    sprite: {fileID: 3808748508249030214, guid: 7f367ea9f9a0b244bbd05ddc7b855503,
+      type: 3}
+    sprite1: {fileID: 8527843877695356867, guid: 8fc3ae53e30535646a1dc2461b33be97,
+      type: 3}
+    canonBall: {fileID: 4182686032802922276, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 14
+    Ship: {fileID: 8010800428102536989, guid: a559d1711107ad54d8a111172bd190d9, type: 3}
+    speed: 7
+    health: 240
+    guns: 6
+    bulletPower: 13
+    fireRate: 0.65
+    model: Queen-505
+    bulletType: 0
+    price: 5500
+    isLocked: 1
+    sprite: {fileID: 1174487045312845518, guid: 7f367ea9f9a0b244bbd05ddc7b855503,
+      type: 3}
+    sprite1: {fileID: 2053970738901378302, guid: 8fc3ae53e30535646a1dc2461b33be97,
+      type: 3}
+    canonBall: {fileID: -6749670139308641082, guid: 70a495d821024f04c9fbbcf09662989f,
+      type: 3}
+  - key: 15
+    Ship: {fileID: 4692746578970672216, guid: 0f1d7bdb3a566554eb21c5a9d9c58b9b, type: 3}
+    speed: 8
+    health: 250
+    guns: 3
+    bulletPower: 15
+    fireRate: 0.65
+    model: BlackSwan-11
+    bulletType: 1
+    price: 6000
+    isLocked: 1
+    sprite: {fileID: -1719660675392779608, guid: 9249f9024a6d5444692ba46223b3f81a,
+      type: 3}
+    sprite1: {fileID: 4143028604721319490, guid: 25218a2cd3f0717438546e800e4b1421,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 032d6a63a7bb7ee44afa9c104f96830a, type: 3}
+  - key: 16
+    Ship: {fileID: 1191131178092236852, guid: 442dfd800f78b2d42a2925b65681f5b7, type: 3}
+    speed: 8
+    health: 260
+    guns: 4
+    bulletPower: 15
+    fireRate: 0.65
+    model: BlackSwan-22
+    bulletType: 1
+    price: 6300
+    isLocked: 1
+    sprite: {fileID: 4657028105481429720, guid: 9249f9024a6d5444692ba46223b3f81a,
+      type: 3}
+    sprite1: {fileID: -1820991997995456199, guid: 25218a2cd3f0717438546e800e4b1421,
+      type: 3}
+    canonBall: {fileID: 9205398034862126040, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 17
+    Ship: {fileID: 2922039155717342032, guid: f348afc8869942848b5327e16058c233, type: 3}
+    speed: 8
+    health: 270
+    guns: 4
+    bulletPower: 15
+    fireRate: 0.65
+    model: BlackSwan-33
+    bulletType: 1
+    price: 6500
+    isLocked: 1
+    sprite: {fileID: 2472898528458194930, guid: 9249f9024a6d5444692ba46223b3f81a,
+      type: 3}
+    sprite1: {fileID: -8314093512534908027, guid: 25218a2cd3f0717438546e800e4b1421,
+      type: 3}
+    canonBall: {fileID: -7773606624266650522, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 18
+    Ship: {fileID: 653136465587944598, guid: 11db9129c053410438a436bb29173fd8, type: 3}
+    speed: 8
+    health: 280
+    guns: 5
+    bulletPower: 15
+    fireRate: 0.65
+    model: BlackSwan-44
+    bulletType: 1
+    price: 7000
+    isLocked: 1
+    sprite: {fileID: 3832243633102735346, guid: 9249f9024a6d5444692ba46223b3f81a,
+      type: 3}
+    sprite1: {fileID: -3492836448204777875, guid: 25218a2cd3f0717438546e800e4b1421,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 032d6a63a7bb7ee44afa9c104f96830a, type: 3}
+  - key: 19
+    Ship: {fileID: 8169336671558333136, guid: 0e53bfa4d97077e4ebf22d6d756e6d94, type: 3}
+    speed: 8
+    health: 290
+    guns: 6
+    bulletPower: 15
+    fireRate: 0.65
+    model: BlackSwan-55
+    bulletType: 1
+    price: 7500
+    isLocked: 1
+    sprite: {fileID: 5772620268907668246, guid: 9249f9024a6d5444692ba46223b3f81a,
+      type: 3}
+    sprite1: {fileID: 3682110462623510284, guid: 25218a2cd3f0717438546e800e4b1421,
+      type: 3}
+    canonBall: {fileID: -7913751806923190180, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 20
+    Ship: {fileID: 9093120433556960062, guid: ad971f247b89abb41925a20e3ef74b1b, type: 3}
+    speed: 8
+    health: 300
+    guns: 2
+    bulletPower: 17
+    fireRate: 0.65
+    model: BlackDragon-10
+    bulletType: 1
+    price: 8000
+    isLocked: 1
+    sprite: {fileID: 6526465623425104040, guid: b1111c829c615a04bb01312f4638ba68,
+      type: 3}
+    sprite1: {fileID: -1004780514810338672, guid: 81981d87d04c0874fa598ca964e41afc,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 032d6a63a7bb7ee44afa9c104f96830a, type: 3}
+  - key: 21
+    Ship: {fileID: 6420067531688043371, guid: c93143c0dfcba8842b729504e7cbda23, type: 3}
+    speed: 8
+    health: 310
+    guns: 3
+    bulletPower: 17
+    fireRate: 0.65
+    model: BlackDragon-20
+    bulletType: 1
+    price: 8500
+    isLocked: 1
+    sprite: {fileID: -2017267084745566573, guid: b1111c829c615a04bb01312f4638ba68,
+      type: 3}
+    sprite1: {fileID: -4141237761991850824, guid: 81981d87d04c0874fa598ca964e41afc,
+      type: 3}
+    canonBall: {fileID: 9205398034862126040, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 22
+    Ship: {fileID: 5303881216357404515, guid: 402dc7365b31c4441a5b453caeec0898, type: 3}
+    speed: 8
+    health: 320
+    guns: 4
+    bulletPower: 17
+    fireRate: 0.65
+    model: BlackDragon-30
+    bulletType: 1
+    price: 9000
+    isLocked: 1
+    sprite: {fileID: 2048644076981928059, guid: b1111c829c615a04bb01312f4638ba68,
+      type: 3}
+    sprite1: {fileID: -1350338497896535835, guid: 81981d87d04c0874fa598ca964e41afc,
+      type: 3}
+    canonBall: {fileID: -7773606624266650522, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 23
+    Ship: {fileID: 3047325382832497949, guid: 5a97ebd9d4ba78f498903f4bde29b26b, type: 3}
+    speed: 8
+    health: 330
+    guns: 5
+    bulletPower: 17
+    fireRate: 0.65
+    model: BlackDragon-40
+    bulletType: 1
+    price: 9500
+    isLocked: 1
+    sprite: {fileID: -8239686480200487048, guid: b1111c829c615a04bb01312f4638ba68,
+      type: 3}
+    sprite1: {fileID: 8903034439775331441, guid: 81981d87d04c0874fa598ca964e41afc,
+      type: 3}
+    canonBall: {fileID: -7913751806923190180, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 24
+    Ship: {fileID: 2087032791405814841, guid: 8ea3cae07d6cd9d4183b839a24899bb3, type: 3}
+    speed: 8
+    health: 340
+    guns: 6
+    bulletPower: 17
+    fireRate: 0.65
+    model: BlackDragon-50
+    bulletType: 1
+    price: 10000
+    isLocked: 1
+    sprite: {fileID: 5184984508487934785, guid: b1111c829c615a04bb01312f4638ba68,
+      type: 3}
+    sprite1: {fileID: 8219045084767726452, guid: 81981d87d04c0874fa598ca964e41afc,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 032d6a63a7bb7ee44afa9c104f96830a, type: 3}
+  - key: 25
+    Ship: {fileID: 8946917263316455942, guid: 4a731c9fc54a2314b9c5263070136872, type: 3}
+    speed: 9
+    health: 400
+    guns: 5
+    bulletPower: 20
+    fireRate: 0.65
+    model: King-666
+    bulletType: 1
+    price: 15000
+    isLocked: 1
+    sprite: {fileID: -6146032709933719055, guid: b3b1ed38950241c48a8886b3b79fc13d,
+      type: 3}
+    sprite1: {fileID: 1379603645524255794, guid: 2ffb2cc74117ade408b0251d3e579041,
+      type: 3}
+    canonBall: {fileID: -7773606624266650522, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 26
+    Ship: {fileID: 6951878538179483581, guid: c789aa0aa7696a54daba923044f9c87e, type: 3}
+    speed: 9
+    health: 420
+    guns: 6
+    bulletPower: 20
+    fireRate: 0.65
+    model: King-777
+    bulletType: 1
+    price: 16000
+    isLocked: 1
+    sprite: {fileID: 4277111463702527695, guid: b3b1ed38950241c48a8886b3b79fc13d,
+      type: 3}
+    sprite1: {fileID: -6763340897059188278, guid: 2ffb2cc74117ade408b0251d3e579041,
+      type: 3}
+    canonBall: {fileID: 9205398034862126040, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 27
+    Ship: {fileID: 6586769560168441305, guid: 44badeaca10abbe469c6fa4121cc7387, type: 3}
+    speed: 9
+    health: 440
+    guns: 7
+    bulletPower: 20
+    fireRate: 0.65
+    model: King-888
+    bulletType: 1
+    price: 17000
+    isLocked: 1
+    sprite: {fileID: -8874719799406934434, guid: b3b1ed38950241c48a8886b3b79fc13d,
+      type: 3}
+    sprite1: {fileID: -6456690521044697311, guid: 2ffb2cc74117ade408b0251d3e579041,
+      type: 3}
+    canonBall: {fileID: -7913751806923190180, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 28
+    Ship: {fileID: 880975572760057998, guid: ccd42c033a04d1c4ca87eea040b11aff, type: 3}
+    speed: 9
+    health: 460
+    guns: 8
+    bulletPower: 20
+    fireRate: 0.65
+    model: King-999
+    bulletType: 1
+    price: 19000
+    isLocked: 1
+    sprite: {fileID: -3215692663057292370, guid: b3b1ed38950241c48a8886b3b79fc13d,
+      type: 3}
+    sprite1: {fileID: 2104419203689828646, guid: 2ffb2cc74117ade408b0251d3e579041,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: 032d6a63a7bb7ee44afa9c104f96830a, type: 3}
+  - key: 29
+    Ship: {fileID: 2568407786700777882, guid: 3dab367cfb24a144599c04b7f7c17d68, type: 3}
+    speed: 9
+    health: 480
+    guns: 9
+    bulletPower: 20
+    fireRate: 0.65
+    model: King-99
+    bulletType: 1
+    price: 20000
+    isLocked: 1
+    sprite: {fileID: -1603457952342284911, guid: b3b1ed38950241c48a8886b3b79fc13d,
+      type: 3}
+    sprite1: {fileID: 2323051034176496735, guid: 2ffb2cc74117ade408b0251d3e579041,
+      type: 3}
+    canonBall: {fileID: 9205398034862126040, guid: 40a4615b4b2bc3f4c900e272790c1cf7,
+      type: 3}
+  - key: 30
+    Ship: {fileID: 1417311777248316, guid: afffd0ab5c031934888808d57f749b36, type: 3}
+    speed: 10
+    health: 500
+    guns: 2
+    bulletPower: 25
+    fireRate: 0.6
+    model: YoungLion-1000
+    bulletType: 2
+    price: 21000
+    isLocked: 1
+    sprite: {fileID: 4445805395416531557, guid: ee0187af5ab53184fb2a26da42213e5d,
+      type: 3}
+    sprite1: {fileID: -4929845392627802597, guid: 59be5ebaf6bbb3e4ebbf6d899cb51ae0,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 31
+    Ship: {fileID: 1596886638801777398, guid: 82149c4eba8fdf942a74f468924ea3ca, type: 3}
+    speed: 10
+    health: 520
+    guns: 3
+    bulletPower: 25
+    fireRate: 0.6
+    model: YoungLion-2000
+    bulletType: 2
+    price: 22000
+    isLocked: 1
+    sprite: {fileID: 4665743896752385263, guid: ee0187af5ab53184fb2a26da42213e5d,
+      type: 3}
+    sprite1: {fileID: -3915411017898630587, guid: 59be5ebaf6bbb3e4ebbf6d899cb51ae0,
+      type: 3}
+    canonBall: {fileID: -3469581599799000295, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 32
+    Ship: {fileID: 2269246981342942034, guid: 94f3491083eb44b4c8f9b281f2884de4, type: 3}
+    speed: 10
+    health: 540
+    guns: 4
+    bulletPower: 25
+    fireRate: 0.6
+    model: YoungLion-3000
+    bulletType: 2
+    price: 23000
+    isLocked: 1
+    sprite: {fileID: -8679206328594344495, guid: ee0187af5ab53184fb2a26da42213e5d,
+      type: 3}
+    sprite1: {fileID: -5500206843787276417, guid: 59be5ebaf6bbb3e4ebbf6d899cb51ae0,
+      type: 3}
+    canonBall: {fileID: -5468349125531023617, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 33
+    Ship: {fileID: 6759658086015130092, guid: 0769823d70cef7642acbd365da990565, type: 3}
+    speed: 10
+    health: 560
+    guns: 5
+    bulletPower: 25
+    fireRate: 0.6
+    model: YoungLion-4000
+    bulletType: 2
+    price: 24000
+    isLocked: 1
+    sprite: {fileID: -5370888383185172779, guid: ee0187af5ab53184fb2a26da42213e5d,
+      type: 3}
+    sprite1: {fileID: 7522556397673378412, guid: 59be5ebaf6bbb3e4ebbf6d899cb51ae0,
+      type: 3}
+    canonBall: {fileID: 9024086145120068599, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 34
+    Ship: {fileID: 5256643093289028154, guid: 0264b24946352634d9e275b9935eb608, type: 3}
+    speed: 10
+    health: 580
+    guns: 6
+    bulletPower: 25
+    fireRate: 0.6
+    model: YoungLion-5000
+    bulletType: 2
+    price: 25000
+    isLocked: 1
+    sprite: {fileID: 5943732860989012821, guid: ee0187af5ab53184fb2a26da42213e5d,
+      type: 3}
+    sprite1: {fileID: -785903560501017139, guid: 59be5ebaf6bbb3e4ebbf6d899cb51ae0,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 35
+    Ship: {fileID: 4705223139756117122, guid: 068964e6d251e7144a74190438450031, type: 3}
+    speed: 10
+    health: 600
+    guns: 4
+    bulletPower: 28
+    fireRate: 0.6
+    model: GoldenGriffin-102
+    bulletType: 2
+    price: 30000
+    isLocked: 1
+    sprite: {fileID: -2575028347881997321, guid: 9840df593d60e3445b924e585ba7e527,
+      type: 3}
+    sprite1: {fileID: 598714210906255438, guid: ddce5ec585ab6e547803ccde5742db6a,
+      type: 3}
+    canonBall: {fileID: -5468349125531023617, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 36
+    Ship: {fileID: 2870653731465164470, guid: 18825782a2c02744c85471d3dbcd6e48, type: 3}
+    speed: 10
+    health: 620
+    guns: 5
+    bulletPower: 28
+    fireRate: 0.6
+    model: GoldenGriffin-202
+    bulletType: 2
+    price: 35000
+    isLocked: 1
+    sprite: {fileID: -9132975985980780813, guid: 9840df593d60e3445b924e585ba7e527,
+      type: 3}
+    sprite1: {fileID: -8423402997791165176, guid: ddce5ec585ab6e547803ccde5742db6a,
+      type: 3}
+    canonBall: {fileID: -3469581599799000295, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 37
+    Ship: {fileID: 2865486949941636355, guid: b9b5d764284096c4fa58468bed686dc4, type: 3}
+    speed: 10
+    health: 640
+    guns: 6
+    bulletPower: 28
+    fireRate: 0.6
+    model: GoldenGriffin-302
+    bulletType: 2
+    price: 40000
+    isLocked: 1
+    sprite: {fileID: -5585445902797508747, guid: 9840df593d60e3445b924e585ba7e527,
+      type: 3}
+    sprite1: {fileID: -6603436607750998157, guid: ddce5ec585ab6e547803ccde5742db6a,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 38
+    Ship: {fileID: 228931859531119549, guid: b826cb5edb3b12f4d838f55b32e6ddfa, type: 3}
+    speed: 10
+    health: 660
+    guns: 7
+    bulletPower: 28
+    fireRate: 0.6
+    model: GoldenGriffin-402
+    bulletType: 2
+    price: 45000
+    isLocked: 1
+    sprite: {fileID: -169309515649026740, guid: 9840df593d60e3445b924e585ba7e527,
+      type: 3}
+    sprite1: {fileID: -2044744902638413567, guid: ddce5ec585ab6e547803ccde5742db6a,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 39
+    Ship: {fileID: 4100666627865193928, guid: a0a1a4c40e1f02e49a6e775390ec5fb3, type: 3}
+    speed: 10
+    health: 680
+    guns: 8
+    bulletPower: 28
+    fireRate: 0.6
+    model: GoldenGriffin-502
+    bulletType: 2
+    price: 50000
+    isLocked: 1
+    sprite: {fileID: 4864861378902090131, guid: 9840df593d60e3445b924e585ba7e527,
+      type: 3}
+    sprite1: {fileID: -1760211725595401712, guid: ddce5ec585ab6e547803ccde5742db6a,
+      type: 3}
+    canonBall: {fileID: 9024086145120068599, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 40
+    Ship: {fileID: 3742355728911334971, guid: 50627f7b18c27eb409fa2c9c3cb34886, type: 3}
+    speed: 11
+    health: 700
+    guns: 3
+    bulletPower: 35
+    fireRate: 0.6
+    model: Death-1001
+    bulletType: 2
+    price: 55000
+    isLocked: 1
+    sprite: {fileID: 3085873291532752358, guid: 393b403c9835429469736f53e2d37b65,
+      type: 3}
+    sprite1: {fileID: -5916499445524302015, guid: e6c2c1f230b77964881391a399151d5a,
+      type: 3}
+    canonBall: {fileID: -5468349125531023617, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 41
+    Ship: {fileID: 4982349255071791601, guid: f1efabea5ea355e45b782803697d5901, type: 3}
+    speed: 11
+    health: 720
+    guns: 4
+    bulletPower: 35
+    fireRate: 0.6
+    model: TheDeath-2001
+    bulletType: 2
+    price: 60000
+    isLocked: 1
+    sprite: {fileID: -2667887151243925163, guid: 393b403c9835429469736f53e2d37b65,
+      type: 3}
+    sprite1: {fileID: -6464037711714232589, guid: e6c2c1f230b77964881391a399151d5a,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 42
+    Ship: {fileID: 2286191840409996227, guid: 079e8e402ced0824493a275723455587, type: 3}
+    speed: 11
+    health: 740
+    guns: 6
+    bulletPower: 35
+    fireRate: 0.6
+    model: TheDeath-3001
+    bulletType: 2
+    price: 65000
+    isLocked: 1
+    sprite: {fileID: -3194887222608818558, guid: 393b403c9835429469736f53e2d37b65,
+      type: 3}
+    sprite1: {fileID: -6722906867998447347, guid: e6c2c1f230b77964881391a399151d5a,
+      type: 3}
+    canonBall: {fileID: -3469581599799000295, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 43
+    Ship: {fileID: 4291478400557549277, guid: ca0cf219c78f07549a6569e78cb2d8b4, type: 3}
+    speed: 11
+    health: 760
+    guns: 8
+    bulletPower: 35
+    fireRate: 0.6
+    model: TheDeath-4001
+    bulletType: 2
+    price: 70000
+    isLocked: 1
+    sprite: {fileID: -3847831200081995530, guid: 393b403c9835429469736f53e2d37b65,
+      type: 3}
+    sprite1: {fileID: 9070774111578524162, guid: e6c2c1f230b77964881391a399151d5a,
+      type: 3}
+    canonBall: {fileID: -5468349125531023617, guid: a7c4c3efe2a9f3545bb1c35526516eb6,
+      type: 3}
+  - key: 44
+    Ship: {fileID: 5022576908585407699, guid: ba428539ba6ecb54f82489ee4b0d1e5b, type: 3}
+    speed: 11
+    health: 780
+    guns: 9
+    bulletPower: 35
+    fireRate: 0.6
+    model: TheDeath-5001
+    bulletType: 2
+    price: 75000
+    isLocked: 1
+    sprite: {fileID: -4485357617015988453, guid: 393b403c9835429469736f53e2d37b65,
+      type: 3}
+    sprite1: {fileID: 7132165902833372924, guid: e6c2c1f230b77964881391a399151d5a,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: fbeea25ab84b9804b93773466ed34fc0, type: 3}
+  - key: 45
+    Ship: {fileID: 1729866336168167152, guid: a37b520754923884a85bc6802ba30cb9, type: 3}
+    speed: 13
+    health: 840
+    guns: 2
+    bulletPower: 40
+    fireRate: 0.55
+    model: TheRage-1100
+    bulletType: 3
+    price: 80000
+    isLocked: 1
+    sprite: {fileID: -5570372335451347133, guid: 8c36196129189ac4cac380dffa18882b,
+      type: 3}
+    sprite1: {fileID: -2394307691284135423, guid: 8a804f1c0bb55634fab2f742949ee5af,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: d802e22e106b50e46a1036b71d2c0761, type: 3}
+  - key: 46
+    Ship: {fileID: 4549984594931435371, guid: d8ccba832c8c8ad42acd737b845b8ba2, type: 3}
+    speed: 13
+    health: 870
+    guns: 3
+    bulletPower: 40
+    fireRate: 0.55
+    model: TheRage-2200
+    bulletType: 3
+    price: 85000
+    isLocked: 1
+    sprite: {fileID: -8382261964013674122, guid: 8c36196129189ac4cac380dffa18882b,
+      type: 3}
+    sprite1: {fileID: 3496337276894462640, guid: 8a804f1c0bb55634fab2f742949ee5af,
+      type: 3}
+    canonBall: {fileID: -2659021869879627444, guid: 2f5d92c17da74f34bbb3507db4656f96,
+      type: 3}
+  - key: 47
+    Ship: {fileID: 2202370527936786375, guid: 96efab7954762d24cacc4fd1a56a9373, type: 3}
+    speed: 13
+    health: 900
+    guns: 4
+    bulletPower: 40
+    fireRate: 0.55
+    model: TheRage-3300
+    bulletType: 3
+    price: 90000
+    isLocked: 1
+    sprite: {fileID: -3120489293238891860, guid: 8c36196129189ac4cac380dffa18882b,
+      type: 3}
+    sprite1: {fileID: -6443744618423603686, guid: 8a804f1c0bb55634fab2f742949ee5af,
+      type: 3}
+    canonBall: {fileID: -3778440173351187237, guid: 2f5d92c17da74f34bbb3507db4656f96,
+      type: 3}
+  - key: 48
+    Ship: {fileID: 1965171798185976412, guid: 81a9fb01660e6bb458c4c8e3cc852d4a, type: 3}
+    speed: 13
+    health: 930
+    guns: 5
+    bulletPower: 40
+    fireRate: 0.55
+    model: TheRage-4400
+    bulletType: 3
+    price: 95000
+    isLocked: 1
+    sprite: {fileID: 513654086821541698, guid: 8c36196129189ac4cac380dffa18882b, type: 3}
+    sprite1: {fileID: 7609761562004285911, guid: 8a804f1c0bb55634fab2f742949ee5af,
+      type: 3}
+    canonBall: {fileID: 5010034639427181046, guid: 2f5d92c17da74f34bbb3507db4656f96,
+      type: 3}
+  - key: 49
+    Ship: {fileID: 7113202095761965300, guid: 9e3a13dfb13a3c843bf48446aca7b3fd, type: 3}
+    speed: 13
+    health: 960
+    guns: 5
+    bulletPower: 40
+    fireRate: 0.55
+    model: TheRage-5500
+    bulletType: 3
+    price: 100000
+    isLocked: 1
+    sprite: {fileID: 5733046261318248187, guid: 8c36196129189ac4cac380dffa18882b,
+      type: 3}
+    sprite1: {fileID: -2668762427389500223, guid: 8a804f1c0bb55634fab2f742949ee5af,
+      type: 3}
+    canonBall: {fileID: -3778440173351187237, guid: 2f5d92c17da74f34bbb3507db4656f96,
+      type: 3}
+  - key: 50
+    Ship: {fileID: 7511113766142716713, guid: e5ced8247806b4f439eeb4f061499575, type: 3}
+    speed: 15
+    health: 1000
+    guns: 2
+    bulletPower: 50
+    fireRate: 0.5
+    model: TheMaster-110
+    bulletType: 4
+    price: 110000
+    isLocked: 1
+    sprite: {fileID: 4949328973820663680, guid: ffaeb377cfd2f1945b972bd3787fdba2,
+      type: 3}
+    sprite1: {fileID: -6731007523933738211, guid: e4efc4ce8dcc8fa4e81b3d5f51c59189,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: cbbc2c9b527bd924697ab3bd3b7fde3f, type: 3}
+  - key: 51
+    Ship: {fileID: 7537386805068110361, guid: 59d567afed341bc48b1380e41844e628, type: 3}
+    speed: 15
+    health: 1040
+    guns: 3
+    bulletPower: 50
+    fireRate: 0.5
+    model: TheMaster-220
+    bulletType: 4
+    price: 120000
+    isLocked: 1
+    sprite: {fileID: 1662528923870933754, guid: ffaeb377cfd2f1945b972bd3787fdba2,
+      type: 3}
+    sprite1: {fileID: 4407371661172340264, guid: e4efc4ce8dcc8fa4e81b3d5f51c59189,
+      type: 3}
+    canonBall: {fileID: 9189653303678810902, guid: ba437697255ab9c43a4fd34729991a18,
+      type: 3}
+  - key: 52
+    Ship: {fileID: 631396632524824605, guid: 731566104db1dfe409af871976d10531, type: 3}
+    speed: 15
+    health: 1080
+    guns: 4
+    bulletPower: 50
+    fireRate: 0.5
+    model: TheMaster-330
+    bulletType: 4
+    price: 130000
+    isLocked: 1
+    sprite: {fileID: -4901529043468200602, guid: ffaeb377cfd2f1945b972bd3787fdba2,
+      type: 3}
+    sprite1: {fileID: -4560876712237244126, guid: e4efc4ce8dcc8fa4e81b3d5f51c59189,
+      type: 3}
+    canonBall: {fileID: 3919771239170884968, guid: ba437697255ab9c43a4fd34729991a18,
+      type: 3}
+  - key: 53
+    Ship: {fileID: 4164847294211339276, guid: d043cdb6ba038d64b99dc50ce0f42017, type: 3}
+    speed: 15
+    health: 1120
+    guns: 6
+    bulletPower: 50
+    fireRate: 0.5
+    model: TheMaster-440
+    bulletType: 4
+    price: 140000
+    isLocked: 1
+    sprite: {fileID: 331490228068904357, guid: ffaeb377cfd2f1945b972bd3787fdba2, type: 3}
+    sprite1: {fileID: 8787831980711732666, guid: e4efc4ce8dcc8fa4e81b3d5f51c59189,
+      type: 3}
+    canonBall: {fileID: 21300000, guid: cbbc2c9b527bd924697ab3bd3b7fde3f, type: 3}
+  - key: 54
+    Ship: {fileID: 5132514147452364223, guid: 0004dc6b3ca6431479070ec52c3f44dc, type: 3}
+    speed: 15
+    health: 1160
+    guns: 7
+    bulletPower: 50
+    fireRate: 0.5
+    model: TheMaster-550
+    bulletType: 4
+    price: 150000
+    isLocked: 1
+    sprite: {fileID: -8652013200032300797, guid: ffaeb377cfd2f1945b972bd3787fdba2,
+      type: 3}
+    sprite1: {fileID: -6062910292561732536, guid: e4efc4ce8dcc8fa4e81b3d5f51c59189,
+      type: 3}
+    canonBall: {fileID: 8525927701655866409, guid: ba437697255ab9c43a4fd34729991a18,
+      type: 3}
+  - key: 55
+    Ship: {fileID: 3946721425612201463, guid: d8ea6447dcab5264fbd246394f58c297, type: 3}
+    speed: 16
+    health: 1250
+    guns: 4
+    bulletPower: 60
+    fireRate: 0.45
+    model: TheRedPirates-109
+    bulletType: 5
+    price: 200000
+    isLocked: 1
+    sprite: {fileID: 6789383494102064510, guid: ecc52306c1af9444f823f4eb7ad32aff,
+      type: 3}
+    sprite1: {fileID: -4266546863229545641, guid: 67a90d0442f7d154291cde44483f000f,
+      type: 3}
+    canonBall: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - key: 56
+    Ship: {fileID: 6861525270320630419, guid: 526449db62be8d34aa55eb1d3327fd7b, type: 3}
+    speed: 17
+    health: 1300
+    guns: 5
+    bulletPower: 60
+    fireRate: 0.45
+    model: TheRedPirates-209
+    bulletType: 5
+    price: 250000
+    isLocked: 1
+    sprite: {fileID: 8176692384770036229, guid: ecc52306c1af9444f823f4eb7ad32aff,
+      type: 3}
+    sprite1: {fileID: 4951284075014624135, guid: 67a90d0442f7d154291cde44483f000f,
+      type: 3}
+    canonBall: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - key: 57
+    Ship: {fileID: 133495891970987136, guid: ac62bd2f0ac2a084e8cb16203b9f334c, type: 3}
+    speed: 18
+    health: 1350
+    guns: 7
+    bulletPower: 60
+    fireRate: 0.45
+    model: TheRedPirates-309
+    bulletType: 5
+    price: 300000
+    isLocked: 1
+    sprite: {fileID: -2653157218876986888, guid: ecc52306c1af9444f823f4eb7ad32aff,
+      type: 3}
+    sprite1: {fileID: 9118943664990308048, guid: 67a90d0442f7d154291cde44483f000f,
+      type: 3}
+    canonBall: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - key: 58
+    Ship: {fileID: 7827480623517648433, guid: fc3ec8eeee9ff154cbbf3c556f6e774b, type: 3}
+    speed: 19
+    health: 1400
+    guns: 9
+    bulletPower: 60
+    fireRate: 0.45
+    model: TheRedPirates-409
+    bulletType: 5
+    price: 350000
+    isLocked: 1
+    sprite: {fileID: -3373623250880127084, guid: ecc52306c1af9444f823f4eb7ad32aff,
+      type: 3}
+    sprite1: {fileID: 1826719085234065535, guid: 67a90d0442f7d154291cde44483f000f,
+      type: 3}
+    canonBall: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - key: 59
+    Ship: {fileID: 9202237279275032471, guid: f540a6cf359a5074fb47f6110cde352c, type: 3}
+    speed: 20
+    health: 1500
+    guns: 14
+    bulletPower: 60
+    fireRate: 0.45
+    model: TheRedPirates-509
+    bulletType: 5
+    price: 400000
+    isLocked: 1
+    sprite: {fileID: 3481143216164174229, guid: ecc52306c1af9444f823f4eb7ad32aff,
+      type: 3}
+    sprite1: {fileID: -1122262908999612255, guid: 67a90d0442f7d154291cde44483f000f,
+      type: 3}
+    canonBall: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}

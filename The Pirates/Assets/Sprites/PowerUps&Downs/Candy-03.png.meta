@@ -1,0 +1,1735 @@
+fileFormatVersion: 2
+guid: d54957204d721124684b9c8460c8cb84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -187875393001390096
+    second: Candy-03_0
+  - first:
+      213: 9081287808853660341
+    second: Candy-03_1
+  - first:
+      213: 6361785545613688889
+    second: Candy-03_2
+  - first:
+      213: 758134874683776017
+    second: Candy-03_3
+  - first:
+      213: -2596951868544899144
+    second: Candy-03_4
+  - first:
+      213: -125035792507423726
+    second: Candy-03_5
+  - first:
+      213: -3709314476120860026
+    second: Candy-03_6
+  - first:
+      213: 3181939747438248455
+    second: Candy-03_7
+  - first:
+      213: -7183227090970236898
+    second: Candy-03_8
+  - first:
+      213: -1466469791131418195
+    second: Candy-03_9
+  - first:
+      213: -4629700264552602103
+    second: Candy-03_10
+  - first:
+      213: -8552960142392540124
+    second: Candy-03_11
+  - first:
+      213: 370093615714548700
+    second: Candy-03_12
+  - first:
+      213: -5416022691168038663
+    second: Candy-03_13
+  - first:
+      213: -4421843883374115623
+    second: Candy-03_14
+  - first:
+      213: -860311251679717177
+    second: Candy-03_15
+  - first:
+      213: -3115265614510266351
+    second: Candy-03_16
+  - first:
+      213: 7682453386895262288
+    second: Candy-03_17
+  - first:
+      213: 2937100026095092133
+    second: Candy-03_18
+  - first:
+      213: 3777260575004830914
+    second: Candy-03_19
+  - first:
+      213: 4112375722824459936
+    second: Candy-03_20
+  - first:
+      213: 262179935128049751
+    second: Candy-03_21
+  - first:
+      213: -5297126137733420353
+    second: Candy-03_22
+  - first:
+      213: -8031163666640521831
+    second: Candy-03_23
+  - first:
+      213: 1210251212167270740
+    second: Candy-03_24
+  - first:
+      213: -8269969133352649306
+    second: Candy-03_25
+  - first:
+      213: 1268158764807524739
+    second: Candy-03_26
+  - first:
+      213: 7524652195480098745
+    second: Candy-03_27
+  - first:
+      213: 1492625071114552101
+    second: Candy-03_28
+  - first:
+      213: 5990829472973172504
+    second: Candy-03_29
+  - first:
+      213: -1886806860598028784
+    second: Candy-03_30
+  - first:
+      213: 666466049688954626
+    second: Candy-03_31
+  - first:
+      213: 7921221897568044863
+    second: Candy-03_32
+  - first:
+      213: -8023163444333711109
+    second: Candy-03_33
+  - first:
+      213: 6360378137919824629
+    second: Candy-03_34
+  - first:
+      213: 3146448750098750410
+    second: Candy-03_35
+  - first:
+      213: -433463092817895319
+    second: Candy-03_36
+  - first:
+      213: -8470890070395201865
+    second: Candy-03_37
+  - first:
+      213: 4184685423217965065
+    second: Candy-03_38
+  - first:
+      213: 7119585117660742440
+    second: Candy-03_39
+  - first:
+      213: -2961674513731068793
+    second: Candy-03_40
+  - first:
+      213: 6869882060205864943
+    second: Candy-03_41
+  - first:
+      213: -57327781408192462
+    second: Candy-03_42
+  - first:
+      213: -495629084975883498
+    second: Candy-03_43
+  - first:
+      213: -8879195026816053251
+    second: Candy-03_44
+  - first:
+      213: 881577462096179241
+    second: Candy-03_45
+  - first:
+      213: 2200327732644003606
+    second: Candy-03_46
+  - first:
+      213: 3478100680455777984
+    second: Candy-03_47
+  - first:
+      213: 7966989796048895507
+    second: Candy-03_48
+  - first:
+      213: -5546216930052354312
+    second: Candy-03_49
+  - first:
+      213: -4159681875026638315
+    second: Candy-03_50
+  - first:
+      213: -2575809889668394673
+    second: Candy-03_51
+  - first:
+      213: -3775171051146690520
+    second: Candy-03_52
+  - first:
+      213: -2891511493287787092
+    second: Candy-03_53
+  - first:
+      213: 9169519159365423218
+    second: Candy-03_54
+  - first:
+      213: -7167844955210092813
+    second: Candy-03_55
+  - first:
+      213: -4511346986318495236
+    second: Candy-03_56
+  - first:
+      213: 9006371943223838194
+    second: Candy-03_57
+  - first:
+      213: -6974947461891937804
+    second: Candy-03_58
+  - first:
+      213: 4393818201289432937
+    second: Candy-03_59
+  - first:
+      213: -8964928553596257920
+    second: Candy-03_60
+  - first:
+      213: 4332155113711066096
+    second: Candy-03_61
+  - first:
+      213: -1694233847351475361
+    second: Candy-03_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candy-03_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1238
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5586327a1feeb064b9846ab5a297dfa7
+      internalID: -187875393001390096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1238
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e72886ce40354ba4bedd832590ee9
+      internalID: 9081287808853660341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1221
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820d9349f822b54cb13a0e7c442b4b1
+      internalID: 6361785545613688889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1222
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89d99b16f610b428cd35571291ad0c
+      internalID: 758134874683776017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_4
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1226
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02222558877136d40a0e26d8a5db8ad8
+      internalID: -2596951868544899144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_5
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1244
+        width: 214
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05106aa5d8420f0498c2bdf3bc6aee68
+      internalID: -125035792507423726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_6
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1236
+        width: 205
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542fd87f539ae244a3f44f21145e9f3
+      internalID: -3709314476120860026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_7
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1243
+        width: 216
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08478be5b8ece04093ae4fedafc18ee
+      internalID: 3181939747438248455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_8
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1238
+        width: 172
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ed7bd0a9094a43ab3f0ac4a135ece
+      internalID: -7183227090970236898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1005
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6656173f077b44b7a8adde0f3185b
+      internalID: -1466469791131418195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1003
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298912d575f33df44ba3902eb5bb9420
+      internalID: -4629700264552602103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1011
+        width: 181
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71e898b7a3c79489829927eefdb8db
+      internalID: -8552960142392540124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_12
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1015
+        width: 167
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081061b1f56153242907d75ecf4ed65d
+      internalID: 370093615714548700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1015
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d005ff927e1304e8dcd89fd83b06cb
+      internalID: -5416022691168038663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_14
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1015
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d96be5814265734b956d8cf691ff270
+      internalID: -4421843883374115623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_15
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 999
+        width: 143
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e97f3540241cb4085ef207f6eae4db
+      internalID: -860311251679717177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_16
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 997
+        width: 125
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c256486b28864585abbc2d8b3d39f
+      internalID: -3115265614510266351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_17
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1006
+        width: 161
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193bc5b992d65b44896e2a1b6ba5049a
+      internalID: 7682453386895262288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 793
+        width: 189
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7566a992a7e9bc45b6888d59e41514b
+      internalID: 2937100026095092133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 805
+        width: 196
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a91323a3f47f62418c99900a3888cd7
+      internalID: 3777260575004830914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_20
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 806
+        width: 197
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623497a042ffcaf43a88747bb90398b8
+      internalID: 4112375722824459936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 801
+        width: 195
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a222f20f335594ab68d978ce687308
+      internalID: 262179935128049751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 811
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f7cb760b526d4e9ad3351c0d87b39
+      internalID: -5297126137733420353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_23
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 807
+        width: 171
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0571510f632c4b806f3862291e9c6
+      internalID: -8031163666640521831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_24
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 802
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0755f48148d2efa4b9177f9973e227a4
+      internalID: 1210251212167270740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_25
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 803
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016f2b599ac0694d9d8d1baf7e3052b
+      internalID: -8269969133352649306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_26
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 802
+        width: 135
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be128c81193198c42bbe1399284eed66
+      internalID: 1268158764807524739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 636
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee23f161757b548a31fd65d3221706
+      internalID: 7524652195480098745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 636
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131199fe6af586a46949a8a7665a5c4b
+      internalID: 1492625071114552101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 632
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cf6e908064dd4aa4a86cb9eca30c5
+      internalID: 5990829472973172504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_30
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 633
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac0c0f461a1164d96df18b9e89429b
+      internalID: -1886806860598028784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_31
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 651
+        width: 202
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be2d1ca5d24f84e890096903ea2817
+      internalID: 666466049688954626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_32
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 609
+        width: 149
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8cdd4fbcc2a749bdc8d8e70e5f21d
+      internalID: 7921221897568044863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_33
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 616
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad054617eecc2d43bc4e63dd4d8d82e
+      internalID: -8023163444333711109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_34
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 609
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46a50ef5d49bc4b8f52107c3632c20
+      internalID: 6360378137919824629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_35
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 615
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670433fb8dc638540b9bdd1b5c233984
+      internalID: 3146448750098750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 424
+        width: 181
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9179e679ae3a41849b24bafb29e6e7ed
+      internalID: -433463092817895319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 440
+        width: 171
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73caad669d052247a33974752a7de9d
+      internalID: -8470890070395201865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 444
+        width: 156
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f60c0b3c895d48beef34e7196577c
+      internalID: 4184685423217965065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 444
+        width: 155
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62200790873ba245af8c2fbb54b1f8f
+      internalID: 7119585117660742440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 452
+        width: 138
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7990af06479b6944bbb989d35c9b5153
+      internalID: -2961674513731068793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_41
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 452
+        width: 151
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc067d49a96b0b43ba9b7a6b554f43c
+      internalID: 6869882060205864943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_42
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 439
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3513dbfd8d7709641866671b5d5be528
+      internalID: -57327781408192462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_43
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 441
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2964686424d6c14585f5b26460a05f6
+      internalID: -495629084975883498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_44
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 426
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d55daca0c4100f41bc9b73cf4e02688
+      internalID: -8879195026816053251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 252
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd4f023be3e9542a6154bf77b769ff
+      internalID: 881577462096179241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 260
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a297c10379501947a7bcd7e117a664b
+      internalID: 2200327732644003606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 239
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699859f6b970c94a9d0c6651e5f3222
+      internalID: 3478100680455777984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_48
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 243
+        width: 196
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b7fa1c54bbe524697729232ca462b3
+      internalID: 7966989796048895507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_49
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 233
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690126ef287705f45bd4537d6a1413d9
+      internalID: -5546216930052354312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 227
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8ff7df1a09c884f9e41549d03a61a3
+      internalID: -4159681875026638315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_51
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 229
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cbae70eead7104cb29ca0b40eedee1
+      internalID: -2575809889668394673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_52
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 229
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af074dbbe9e8904998f92fba997b45a
+      internalID: -3775171051146690520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_53
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 251
+        width: 156
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb268a5eb2f573446933de81b64733ae
+      internalID: -2891511493287787092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 50
+        width: 187
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b575984d8b0b39e41be926330d25d737
+      internalID: 9169519159365423218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_55
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 30
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f091f4efd36cc4ab1978595266e876
+      internalID: -7167844955210092813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 24
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b97976c4dc7a94894787a1b3543d98
+      internalID: -4511346986318495236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 37
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352886fcd44dfe54cad220643f606ebe
+      internalID: 9006371943223838194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 51
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d41f0ca6ffca40926de6f0e005465
+      internalID: -6974947461891937804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_59
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 41
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a487910acadd7246842541e5d83a6a3
+      internalID: 4393818201289432937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_60
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 23
+        width: 78
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1ce0fcaea6e94897409b419cc6a88
+      internalID: -8964928553596257920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_61
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 34
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5e696d97f8944384e38da513d7222
+      internalID: 4332155113711066096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy-03_62
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 32
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542891b727cf5d545a33624d313c3b80
+      internalID: -1694233847351475361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Candy-03_47: 3478100680455777984
+      Candy-03_40: -2961674513731068793
+      Candy-03_55: -7167844955210092813
+      Candy-03_9: -1466469791131418195
+      Candy-03_59: 4393818201289432937
+      Candy-03_38: 4184685423217965065
+      Candy-03_32: 7921221897568044863
+      Candy-03_34: 6360378137919824629
+      Candy-03_57: 9006371943223838194
+      Candy-03_13: -5416022691168038663
+      Candy-03_30: -1886806860598028784
+      Candy-03_45: 881577462096179241
+      Candy-03_18: 2937100026095092133
+      Candy-03_54: 9169519159365423218
+      Candy-03_61: 4332155113711066096
+      Candy-03_28: 1492625071114552101
+      Candy-03_36: -433463092817895319
+      Candy-03_49: -5546216930052354312
+      Candy-03_3: 758134874683776017
+      Candy-03_56: -4511346986318495236
+      Candy-03_33: -8023163444333711109
+      Candy-03_16: -3115265614510266351
+      Candy-03_21: 262179935128049751
+      Candy-03_42: -57327781408192462
+      Candy-03_46: 2200327732644003606
+      Candy-03_8: -7183227090970236898
+      Candy-03_26: 1268158764807524739
+      Candy-03_12: 370093615714548700
+      Candy-03_1: 9081287808853660341
+      Candy-03_52: -3775171051146690520
+      Candy-03_10: -4629700264552602103
+      Candy-03_35: 3146448750098750410
+      Candy-03_37: -8470890070395201865
+      Candy-03_6: -3709314476120860026
+      Candy-03_19: 3777260575004830914
+      Candy-03_24: 1210251212167270740
+      Candy-03_51: -2575809889668394673
+      Candy-03_60: -8964928553596257920
+      Candy-03_62: -1694233847351475361
+      Candy-03_0: -187875393001390096
+      Candy-03_7: 3181939747438248455
+      Candy-03_20: 4112375722824459936
+      Candy-03_50: -4159681875026638315
+      Candy-03_25: -8269969133352649306
+      Candy-03_27: 7524652195480098745
+      Candy-03_2: 6361785545613688889
+      Candy-03_39: 7119585117660742440
+      Candy-03_11: -8552960142392540124
+      Candy-03_14: -4421843883374115623
+      Candy-03_31: 666466049688954626
+      Candy-03_15: -860311251679717177
+      Candy-03_23: -8031163666640521831
+      Candy-03_29: 5990829472973172504
+      Candy-03_58: -6974947461891937804
+      Candy-03_44: -8879195026816053251
+      Candy-03_43: -495629084975883498
+      Candy-03_48: 7966989796048895507
+      Candy-03_53: -2891511493287787092
+      Candy-03_5: -125035792507423726
+      Candy-03_4: -2596951868544899144
+      Candy-03_41: 6869882060205864943
+      Candy-03_17: 7682453386895262288
+      Candy-03_22: -5297126137733420353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

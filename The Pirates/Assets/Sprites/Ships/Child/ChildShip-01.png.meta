@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: c6debcf93d8950d40a3da0ffcb25b37a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4800008687723935771
+    second: ChildShip-01_0
+  - first:
+      213: 7435830179611717736
+    second: ChildShip-01_1
+  - first:
+      213: 13848770351841513
+    second: ChildShip-01_2
+  - first:
+      213: 9219882743075179885
+    second: ChildShip-01_3
+  - first:
+      213: -10456116840300721
+    second: ChildShip-01_4
+  - first:
+      213: 2186838627464135178
+    second: ChildShip-01_5
+  - first:
+      213: -2573854662554402469
+    second: ChildShip-01_6
+  - first:
+      213: -245840266945662760
+    second: ChildShip-01_7
+  - first:
+      213: -5264023362760979651
+    second: ChildShip-01_8
+  - first:
+      213: -5323451520920791294
+    second: ChildShip-01_9
+  - first:
+      213: 6502686379505903251
+    second: ChildShip-01_10
+  - first:
+      213: 1497846146938929270
+    second: ChildShip-01_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChildShip-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9825e0c361efabb4ea701dc32ff64eaa
+      internalID: 4800008687723935771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1122.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd799db39be7244ab6617f86a65255
+      internalID: 7435830179611717736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a97a27f6fd752949ad43e035a2c833b
+      internalID: 13848770351841513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 898.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff364a4b9197e184591d7c541ddf01ca
+      internalID: 9219882743075179885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ecbd2dbd69af47b1b7b16131ceb5f
+      internalID: -10456116840300721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 674.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92358b697b7a344ace1963561bf8af
+      internalID: 2186838627464135178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb34108fde7b0a4fb577ebd820f997e
+      internalID: -2573854662554402469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 450.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb729c54f5b394fb66fc0c488fccda
+      internalID: -245840266945662760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07266c3789032b24ab83dbad477c9ec3
+      internalID: -5264023362760979651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 226.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d370eeceef0d1b4b875f0a912003699
+      internalID: -5323451520920791294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742136cbd73db946b1a045ca88a41a4
+      internalID: 6502686379505903251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-01_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16318d018412a4d8451a9a928127e5
+      internalID: 1497846146938929270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChildShip-01_5: 2186838627464135178
+      ChildShip-01_10: 6502686379505903251
+      ChildShip-01_9: -5323451520920791294
+      ChildShip-01_6: -2573854662554402469
+      ChildShip-01_2: 13848770351841513
+      ChildShip-01_11: 1497846146938929270
+      ChildShip-01_3: 9219882743075179885
+      ChildShip-01_8: -5264023362760979651
+      ChildShip-01_4: -10456116840300721
+      ChildShip-01_7: -245840266945662760
+      ChildShip-01_1: 7435830179611717736
+      ChildShip-01_0: 4800008687723935771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

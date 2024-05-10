@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8115650387063345953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8115650387063345983}
+  - component: {fileID: 8115650387063345952}
+  m_Layer: 0
+  m_Name: JunkSpawner 3
+  m_TagString: spawner
+  m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8115650387063345983
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8115650387063345953}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 7.401, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8115650387063345952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8115650387063345953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958b0be0e16c16d429b84c4b779372f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CandyPrefabs:
+  - {fileID: 4546785507119456880, guid: b829148a29f10a0489a6dd7bea763aa1, type: 3}
+  - {fileID: 1533173879631666626, guid: 2d820f2c1c7d29e418e62dcf9e7a05a0, type: 3}
+  - {fileID: 306758119065729401, guid: 2f093294f27c1a941a624b365b73680b, type: 3}
+  - {fileID: 7343629017942671554, guid: 8ec3335171e3ef54bace7203df600fb4, type: 3}
+  - {fileID: 3715768480018404350, guid: 6c0b382244e607546b47c616f4afa286, type: 3}
+  - {fileID: 2017780646626724793, guid: bcecf5ce4d5305941ac9bb9cf8a0a9af, type: 3}
+  - {fileID: 503749037208540378, guid: c98e04018c8f27745ad5ba066d7a28bd, type: 3}
+  timeToSpawn: {x: 2, y: 4}
+  xAxisLimitToSpawn: {x: -8, y: 8}

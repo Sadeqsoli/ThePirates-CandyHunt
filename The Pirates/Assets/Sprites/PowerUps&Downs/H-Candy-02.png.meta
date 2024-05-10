@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: c0821e1df4c4ee4429bd5f97f2b0a459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6294943469732090627
+    second: H-Candy-02_0
+  - first:
+      213: 2027064673619359209
+    second: H-Candy-02_1
+  - first:
+      213: 2944082473310389038
+    second: H-Candy-02_2
+  - first:
+      213: 2111796933251456770
+    second: H-Candy-02_3
+  - first:
+      213: 359353667255070092
+    second: H-Candy-02_4
+  - first:
+      213: -1224992970221111203
+    second: H-Candy-02_5
+  - first:
+      213: -3713059648573634366
+    second: H-Candy-02_6
+  - first:
+      213: -2729147614138202129
+    second: H-Candy-02_7
+  - first:
+      213: -4352368396885911605
+    second: H-Candy-02_8
+  - first:
+      213: 5008326238911365095
+    second: H-Candy-02_9
+  - first:
+      213: -187780500192874861
+    second: H-Candy-02_10
+  - first:
+      213: -607257400828362618
+    second: H-Candy-02_11
+  - first:
+      213: 5675825032439400538
+    second: H-Candy-02_12
+  - first:
+      213: -751954694311403331
+    second: H-Candy-02_13
+  - first:
+      213: -2223505887749336743
+    second: H-Candy-02_14
+  - first:
+      213: 3033731489461186444
+    second: H-Candy-02_15
+  - first:
+      213: -7987024890679515719
+    second: H-Candy-02_16
+  - first:
+      213: 4627899089644080101
+    second: H-Candy-02_17
+  - first:
+      213: 6157190155551386951
+    second: H-Candy-02_18
+  - first:
+      213: -8467258634384578028
+    second: H-Candy-02_19
+  - first:
+      213: 1864816341959374303
+    second: H-Candy-02_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: H-Candy-02_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1165
+        width: 226
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb504dc4abc5526459d227a5d33118fe
+      internalID: 6294943469732090627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1150
+        width: 219
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007acc10779ff4942af90a3b25892c1b
+      internalID: 2027064673619359209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1139
+        width: 219
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317005153d43a7e4d971e7f74f1dd3e6
+      internalID: 2944082473310389038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1051
+        width: 220
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567bc59445068b49a9fdb2cce0c43c0
+      internalID: 2111796933251456770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1053
+        width: 217
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929f7a81e8eac941b210c6e8984c375
+      internalID: 359353667255070092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1028
+        width: 217
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3aa2be4c0059e40bfa4d7b685eb211
+      internalID: -1224992970221111203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_6
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1042
+        width: 208
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e94cc7041e8a34e9fd02236624ccec
+      internalID: -3713059648573634366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_7
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1049
+        width: 226
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c9152e25f3c041b327505afb0ede1
+      internalID: -2729147614138202129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 225
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278aaae2220f7a438351a803f131d95
+      internalID: -4352368396885911605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 480
+        width: 204
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89562c5826fd142bb30d713a29439d
+      internalID: 5008326238911365095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 554
+        width: 216
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa92733612d194db2b3e9e68a0418c
+      internalID: -187780500192874861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 652
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6ef2612b4677b45a4fd4cff3caf344
+      internalID: -607257400828362618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_12
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 546
+        width: 182
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599567086b0bbb4b911043e1f1186f2
+      internalID: 5675825032439400538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_13
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 578
+        width: 167
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade347152a3de2419819557ed540195
+      internalID: -751954694311403331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_14
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 635
+        width: 262
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492aefea191ad0d4eb3b5144eff78f34
+      internalID: -2223505887749336743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_15
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 588
+        width: 187
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598a6ca028f05c449811a1bd49487c7
+      internalID: 3033731489461186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 18
+        width: 243
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e7de52e9e0824190304975c37b4c6
+      internalID: -7987024890679515719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 65
+        width: 166
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908d1fbf26e2d79479a8b52e2110545c
+      internalID: 4627899089644080101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 116
+        width: 191
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03da9c16a50cca4a9ac7405d4d3bb52
+      internalID: 6157190155551386951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_19
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 69
+        width: 187
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb2434fdddce54f99d227a298aa8bc
+      internalID: -8467258634384578028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Candy-02_20
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 69
+        width: 188
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb5bdf59f2f074f95b74103d396589
+      internalID: 1864816341959374303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      H-Candy-02_10: -187780500192874861
+      H-Candy-02_0: 6294943469732090627
+      H-Candy-02_2: 2944082473310389038
+      H-Candy-02_6: -3713059648573634366
+      H-Candy-02_3: 2111796933251456770
+      H-Candy-02_13: -751954694311403331
+      H-Candy-02_14: -2223505887749336743
+      H-Candy-02_19: -8467258634384578028
+      H-Candy-02_20: 1864816341959374303
+      H-Candy-02_5: -1224992970221111203
+      H-Candy-02_17: 4627899089644080101
+      H-Candy-02_16: -7987024890679515719
+      H-Candy-02_11: -607257400828362618
+      H-Candy-02_9: 5008326238911365095
+      H-Candy-02_4: 359353667255070092
+      H-Candy-02_18: 6157190155551386951
+      H-Candy-02_15: 3033731489461186444
+      H-Candy-02_1: 2027064673619359209
+      H-Candy-02_12: 5675825032439400538
+      H-Candy-02_8: -4352368396885911605
+      H-Candy-02_7: -2729147614138202129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

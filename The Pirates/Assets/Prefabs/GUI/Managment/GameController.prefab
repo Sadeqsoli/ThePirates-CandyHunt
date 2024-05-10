@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &550008430811001099
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 550008430811001333}
+  - component: {fileID: 550008430811001098}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &550008430811001333
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550008430811001099}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 637.96246, y: 348.86896, z: -1220}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &550008430811001098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550008430811001099}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37757874fa2485842bcc43df0a550e6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: 100
+  hudTopLeftManager: {fileID: 0}
+  hudBulletManager: {fileID: 0}
+  joyStick: {fileID: 0}
+  winGameOverManager: {fileID: 0}
+  winLoseChar: {fileID: 0}
+  pauseChar: {fileID: 0}
+  missionChar: {fileID: 0}
+  bonusChar1: {fileID: 0}
+  bonusChar2: {fileID: 0}
+  anotherChanceChar: {fileID: 0}
+  areYouSureChar: {fileID: 0}
+  connectionChar: {fileID: 0}
+  charBody1: {fileID: -6967684563833132188, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  charBody2: {fileID: 2012985275572083807, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody3: {fileID: -494210911508068514, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  charBody4: {fileID: 6454513214699686406, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody5: {fileID: 3480410427097335334, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  charBody6: {fileID: -614511563700355821, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody7: {fileID: -2217451786656596312, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody8: {fileID: -2255690143695807467, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  charBody9: {fileID: -6538830737291533652, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody10: {fileID: -6234373324693419202, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  charBody11: {fileID: -6896717472130465552, guid: 4b799930b45b7bc4da40d03d1bcfa443,
+    type: 3}
+  charBody12: {fileID: 4344929464763095270, guid: 4c04768efe61d72419adcbf34bdc415e,
+    type: 3}
+  pauseButton: {fileID: 0}
+  spawners: {fileID: 0}
+  bonus: {fileID: 0}
+  arrowPnl: {fileID: 0}
+  noConnectionPnl: {fileID: 0}
+  bgConnection: {fileID: 0}
+  process: {fileID: 0}
+  mPlayer: {fileID: 0}
+  anotherChancePnl: {fileID: 0}
+  areYouSurePnl: {fileID: 0}
+  txtKeyPop: {fileID: 0}
+  txtHaveKey: {fileID: 0}
+  txtHaveKey1: {fileID: 0}
+  audioSource: {fileID: 0}
+  audioClip: {fileID: 8300000, guid: a123ecffb1d6444729dcf611f824f331, type: 3}
+  coinRepo: {fileID: 0}
+  scoreRepo: {fileID: 0}
+  shipRepo: {fileID: 0}
+  kelidRepo: {fileID: 0}
+  charRepo: {fileID: 0}
+  objectsRepo: {fileID: 0}
+  gameLog: {fileID: 0}
+  levelReached: {fileID: 0}
+  saveData: {fileID: 0}
+  retriveData: {fileID: 0}

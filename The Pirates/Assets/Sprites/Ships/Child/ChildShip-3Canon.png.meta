@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 62987b1d2003b204d80758de3859ecfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5739630815059596495
+    second: ChildShip-3Canon_0
+  - first:
+      213: 1857582906901520194
+    second: ChildShip-3Canon_1
+  - first:
+      213: -3366824735774781167
+    second: ChildShip-3Canon_2
+  - first:
+      213: -8149921727673187733
+    second: ChildShip-3Canon_3
+  - first:
+      213: 709382136454993412
+    second: ChildShip-3Canon_4
+  - first:
+      213: 3063070910499614762
+    second: ChildShip-3Canon_5
+  - first:
+      213: -3274708734110930526
+    second: ChildShip-3Canon_6
+  - first:
+      213: 6758420500818585480
+    second: ChildShip-3Canon_7
+  - first:
+      213: -3681335298261974938
+    second: ChildShip-3Canon_8
+  - first:
+      213: -8666049212819638385
+    second: ChildShip-3Canon_9
+  - first:
+      213: -5979777563966321287
+    second: ChildShip-3Canon_10
+  - first:
+      213: -8691924954665600508
+    second: ChildShip-3Canon_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChildShip-3Canon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907560c5534ce6343b7b306755b7be05
+      internalID: -5739630815059596495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1122.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040a8d9f37c4744a8b34213b27b46d6
+      internalID: 1857582906901520194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe2800067083dc43b03ba02f3ead425
+      internalID: -3366824735774781167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 898.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fc3e63b2a32c4d865fab2ced10061
+      internalID: -8149921727673187733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705db4cac624cac49a9e4573e011d6fd
+      internalID: 709382136454993412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 674.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82cdf511509d04d8634927d045c2d6
+      internalID: 3063070910499614762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f291873a0912fe4cb61ed0ca36430d3
+      internalID: -3274708734110930526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 450.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90780324166b5e47bbbcdbff5cc6cdb
+      internalID: 6758420500818585480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f4468474655774498653ebd0a6b12a
+      internalID: -3681335298261974938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 226.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cee606a42459d48a0fa1020eaf15f2
+      internalID: -8666049212819638385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce6d3ccec5da4468368aac579b9805
+      internalID: -5979777563966321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildShip-3Canon_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2.5
+        width: 360.5
+        height: 224.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb290731b7392f14d8f475fcdd9c6f58
+      internalID: -8691924954665600508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChildShip-3Canon_9: -8666049212819638385
+      ChildShip-3Canon_4: 709382136454993412
+      ChildShip-3Canon_3: -8149921727673187733
+      ChildShip-3Canon_10: -5979777563966321287
+      ChildShip-3Canon_5: 3063070910499614762
+      ChildShip-3Canon_7: 6758420500818585480
+      ChildShip-3Canon_0: -5739630815059596495
+      ChildShip-3Canon_2: -3366824735774781167
+      ChildShip-3Canon_8: -3681335298261974938
+      ChildShip-3Canon_6: -3274708734110930526
+      ChildShip-3Canon_1: 1857582906901520194
+      ChildShip-3Canon_11: -8691924954665600508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
