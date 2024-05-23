@@ -88,29 +88,29 @@ In **The Pirates: Candy Hunt**, players embark on a thrilling adventure as a you
 ![Game Play](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/01.png)
 *Game Play of The The Pirates: Candy Hunt*
 
-![Levels](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/11.png)
+![Levels](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/11.JPG)
 *Levels in The Pirates: Candy Hunt*
 
 
-![Levels](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/12.png)
+![Levels](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/12.JPG)
 *Levels in The Pirates: Candy Hunt*
 
-![Settings](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/13.png)
+![Settings](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/13.JPG)
 *Settings in The The Pirates: Candy Hunt*
 
-![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10.png)
+![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10.JPG)
 *Shop n The The Pirates: Candy Hunt*
 
-![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10-0.png)
+![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10-0.JPG)
 *Shop in The The Pirates: Candy Hunt*
 
-![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10-1.png)
+![Shop](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/10-1.JPG)
 *Shop in The The Pirates: Candy Hunt*
 
-![Power-ups](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/06.png)
+![Power-ups](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/06.JPG)
 *Power-ups in The The Pirates: Candy Hunt*
 
-![Power-ups](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/07.png)
+![Power-ups](https://github.com/Sadeqsoli/ThePirates-CandyHunt/blob/master/Shots/Scenes/07.JPG)
 *Power-ups in The The Pirates: Candy Hunt*
 
 ---
